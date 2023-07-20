@@ -1,11 +1,6 @@
 @font-face {
-    font-family: 'CursedTimer';
-    src: url('./assets/CursedTimerUlil-Aznm.ttf');
-}
-
-.CursedTimer {
-    font-family: CursedTimer;
-    font-size: 4.2em;
+    font-family: cursed;
+    src: url('../assets/CursedTimerUlil-Aznm.ttf');
 }
 
 body {
@@ -55,4 +50,9 @@ button {
     color: #9AABD8;
     padding: 30px;
     margin-top: 5px;
+}
+
+.cursed {
+    font-family: cursed;
+    font-size: x-large;
 }
